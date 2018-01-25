@@ -1,0 +1,24 @@
+{
+  "name": "random_choosing_in_leetcode",
+  "version": "1.0.0",
+  "description": "随机选一个leetcode上的题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sevenskey/random_choosing_in_leetcode.git"
+  },
+  "author": "Sevenskey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sevenskey/random_choosing_in_leetcode/issues"
+  },
+  "homepage": "https://github.com/Sevenskey/random_choosing_in_leetcode#readme",
+  "dependencies": {
+    "ioredis": "^3.2.2",
+    "koa": "^2.4.1",
+    "moment": "^2.20.1"
+  }
+}
